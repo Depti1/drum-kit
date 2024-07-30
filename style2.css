@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(5, 37, 101);
+}
+
+.container{
+    height: 70vh;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 59px;
+    
+}
+
+
+.btn{
+  height: 10rem;
+  width: 50rem;
+  border-radius: 25px;
+  border: 4px solid rgb(213 189 189);
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 3px 0 #DBEDF3;
+  
+
+  
+  
+
+}
+em{
+    color: aliceblue;
+font-size: 110px;
+margin-left: 302px;
+text-shadow: 3px 0 #DBEDF3;
+}
+ .drum1{
+    background-image: url("images/tom1.png");
+    
+ }
+ .drum7{
+    background-image: url("images/tom2.png");
+    
+
+ }
+ .drum5{
+    background-image: url("images/crash.png");
+    
+
+ }
+ .drum4{
+    background-image: url("images/kick.png");
+    
+
+ }
+ .drum4 img{
+    background-size: cover;
+ }
+ .drum2{
+    background-image: url("images/tom3.png");
+    
+
+ }
+ .drum6{
+    background-image: url("images/tom4.png");
+
+ }
+ .drum3{
+    background-image: url("images/snare.png");
+    
+
+ }
